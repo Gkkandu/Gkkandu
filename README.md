@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Neerajmaddheshiya
+- 👋 Hi, I’m @Gauravkandu
 - 👀 I’m interested in ..helping Nature.
 - 🌱 I’m currently learning Mern fullstack development..
 - 💞️ I’m looking to collaborate on ...
